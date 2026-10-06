@@ -59,4 +59,4 @@ Location and property type matter even after controlling for size, which fits wh
 
 ## Credits
 
-Team project for UCLA Stats 101A. Team members: [add names]. My role: [add what you did].
+Team project for UCLA Stats 101A. Team members: Zirui Zhai, Ibrahim Ahmad, Zelin Chen, Lucas Lam, Fei Peng
